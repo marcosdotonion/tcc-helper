@@ -44,10 +44,10 @@ def query_rag(query_text: str):
     response_text = model.invoke(prompt)
 
     sources = [doc.metadata.get("id", None) for doc, _score in results]
-    formatted_response = f"Response: {response_text}\nSources: {sources}"
+    formatted_response = f"\n=== RESPONSE ===\n{response_text}\nSources: {sources}\n=== END OF RESPONSE ===\n"
 
     # **Change: Write output to a file instead of printing**
-    with open("output.md", "w") as f:
+    with open("output.md", "a") as f:
         f.write(formatted_response)
 
     # **Change: Print confirmation message instead of the response**
