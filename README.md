@@ -1,12 +1,12 @@
 tcc-helper 0.1
-
 Description
 
-tcc-helper is a Python application that leverages Ollama's local server to run powerful AI models for efficient processing and output generation. This app have no gui for now (cli is better after all), but works integrating and interacting with AI models locally, giving you the flexibility to use AI technology without relying on cloud services.
-
+tcc-helper is a Python application that uses Ollama's local server to run powerful AI models. It’s a command-line interface (CLI) tool that allows you to work with AI models directly on your machine, offering more flexibility and control without relying on cloud services.
 Features
 
-    Local server setup with Ollama for running AI models
-    Easy to use with Python
-    Customizable AI model interaction
-    Lightweight and efficient
+    Local Server Integration: Run AI models locally with Ollama's server.
+    Python-Based: Easy to use with Python for quick integration.
+    Customizable: Interact with AI models in a way that fits your needs.
+    Efficient: Lightweight and fast, providing optimal performance.
+
+No GUI for now—because CLI is all you need to get things done quickly and efficiently!
