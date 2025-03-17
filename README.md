@@ -99,7 +99,8 @@ Contributions are welcome! If you'd like to contribute to TCC-Helper, please fol
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
+
+## Acknowledgments
 
 Ollama For providing a powerful local AI server.
 
