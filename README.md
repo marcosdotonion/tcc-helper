@@ -56,7 +56,8 @@ Query the AI model with a specific prompt.
     python3 query_data.py "PROMPT"
 or:
 
-    python3
+    python3 query_cpp.py
+    > Enter your prompt
 
 Populate Database:
 Add documents to the RAG database for enhanced querying.
