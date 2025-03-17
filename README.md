@@ -1,6 +1,6 @@
 # TCC-Helper 1.0
 
-## TCC-Helper is a Python-based command-line interface (CLI) tool designed to help you work with powerful AI models locally. It integrates seamlessly with Ollama's local server and llama.cpp, allowing you to run AI models efficiently on your machine without relying on cloud services. Whether you're querying data, populating a database, or testing RAG (Retrieval-Augmented Generation), TCC-Helper provides a lightweight and customizable solution for your AI needs.
+TCC-Helper is a Python-based command-line interface (CLI) tool designed to help you work with powerful AI models locally. It integrates seamlessly with Ollama's local server and llama.cpp, allowing you to run AI models efficiently on your machine without relying on cloud services. Whether you're querying data, populating a database, or testing RAG (Retrieval-Augmented Generation), TCC-Helper provides a lightweight and customizable solution for your AI needs.
 Features
 
     Local Server Integration: Run AI models locally using Ollama or llama.cpp.
@@ -28,21 +28,21 @@ Features
 
 ## Installation
 
-    Clone the Repository:
+Clone the Repository:
     
     git clone https://github.com/marcosdotonion/tcc-helper.git
     cd tcc-helper
 
-    Set Up a Python Virtual Environment:
+Set Up a Python Virtual Environment:
     
     python3 -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-    Install Dependencies:
+Install Dependencies:
     
     pip install -r requirements.txt
 
-    Set Up Ollama or llama.cpp:
+Set Up Ollama or llama.cpp:
 
     For Ollama, ensure the local server is running. Follow the Ollama documentation for setup instructions.
 
