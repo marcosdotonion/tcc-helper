@@ -1,4 +1,4 @@
-# This is the outdated, barebones repo. To see the latest TCC HELPER, go to [TEST branch](https://github.com/marcosdotonion/tcc-helper/tree/test) or click [here](https://github.com/marcosdotonion/tcc-helper/tree/test).
+# This is the outdated, barebones repo. To see the latest TCC HELPER, go to [TEST branch](https://github.com/marcosdotonion/tcc-helper/tree/test).
 
 
 TCC-Helper is a Python-based command-line interface (CLI) tool designed to help you work with powerful AI models locally. It integrates seamlessly with Ollama's local server and llama.cpp, allowing you to run AI models efficiently on your machine without relying on cloud services. Whether you're querying data, populating a database, or testing RAG (Retrieval-Augmented Generation), TCC-Helper provides a lightweight and customizable solution for your AI needs.
